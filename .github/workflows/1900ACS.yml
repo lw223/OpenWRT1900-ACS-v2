@@ -1,5 +1,5 @@
 #
-# Copyright (c) 2019-2021 P3TERX <https://p3terx.com>
+# Copyright (c) 2019-2021 P3TERX <https://github.com>
 #
 # This is free software, licensed under the MIT License.
 # See /LICENSE for more information.
@@ -12,8 +12,8 @@
 name: OpenWRT1900ACS v2
 
 env:
-  REPO_URL: https://github.com/coolsnowwolf/lede
-  REPO_BRANCH: master
+  REPO_URL: https://github.com/KFERMercer/OpenWrt/tree/master/package/lean
+  REPO_BRANCH: dev-19.07
 
 on:
   workflow_dispatch:
